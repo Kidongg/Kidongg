@@ -1,8 +1,8 @@
-<h1>Hey! Nice to see you.😄</h1>
+<h1>Hey! Nice to see you 😄</h1>
 
 <p>Welcome to my page! </br> I'm Kidongg, Baby developer from <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/><b> Ulsan, South Korea</b></p>
 
-<h3>My main stack 💻</h3>
+<h3>💻 My main stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img alt="styled-components" src="https://img.shields.io/badge/-Styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
@@ -14,7 +14,7 @@
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
-<h3>Experience stack 📱</h3>
+<h3>📱 Experience stack</h3>
 <p>
   <img alt="React native" src="https://img.shields.io/badge/-React native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img alt="React Query" src="https://img.shields.io/badge/-React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
@@ -26,7 +26,7 @@
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>  
 </p>
 
-<h3>Where to find me ✈</h3>
+<h3>✈ Where to find me</h3>
 <p>
 <a href="https://blog.naver.com/dlrlehd25" target="_blank"><img alt="Naverblog" src="https://img.shields.io/badge/Naver-green?&style=for-the-badge&logo=naver&logoColor=white" /></a> <a href="https://www.instagram.com/ki_dongg_/" target="_blank"><img alt="Instargram" src="https://img.shields.io/badge/Instagram-ff69b4?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
