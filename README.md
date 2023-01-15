@@ -20,8 +20,9 @@
   <img alt="React Query" src="https://img.shields.io/badge/-React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-  <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
+  <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/> </br>
   <img alt="Python" src="https://img.shields.io/badge/-Python-9cf?style=flat-square&logo=python&logoColor=white"/>
+  <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
   <img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>  
 </p>
