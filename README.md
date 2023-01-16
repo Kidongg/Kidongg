@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm Kidongg, Baby developer from <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/><b> Ulsan, South Korea</b></p>
 
-<h3>💻 My main stack</h3>
+<h3>💻 Confident stack</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img alt="styled-components" src="https://img.shields.io/badge/-Styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
@@ -16,6 +16,7 @@
 
 <h3>📱 Experience stack</h3>
 <p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img alt="React native" src="https://img.shields.io/badge/-React native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img alt="React Query" src="https://img.shields.io/badge/-React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
