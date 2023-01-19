@@ -20,8 +20,8 @@
   <img alt="React native" src="https://img.shields.io/badge/-React native-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img alt="React query" src="https://img.shields.io/badge/-React query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-  <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/> </br>
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> </br>
+  <img alt="Axios" src="https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-9cf?style=flat-square&logo=python&logoColor=white"/>
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
