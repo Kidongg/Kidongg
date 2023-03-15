@@ -4,9 +4,9 @@
 
 <h3>💻 Confident stack</h3>
 <p>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img alt="styled-components" src="https://img.shields.io/badge/-Styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   </br>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -20,7 +20,7 @@
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
   <img alt="React query" src="https://img.shields.io/badge/-React query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
   </br>  
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img alt="styled-components" src="https://img.shields.io/badge/-Styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
 </p>
 
