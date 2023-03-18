@@ -14,16 +14,6 @@
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
-<h3>📱 Experience stack</h3>
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-  <img alt="React query" src="https://img.shields.io/badge/-React query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
-  </br>  
-  <img alt="styled-components" src="https://img.shields.io/badge/-Styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-</p>
-
 <h3>✈ Where to find me</h3>
 <p>
 <a href="https://blog.naver.com/dlrlehd25" target="_blank"><img alt="Naverblog" src="https://img.shields.io/badge/Naver-green?&style=for-the-badge&logo=naver&logoColor=white" /></a> <a href="https://www.instagram.com/ki_dongg_/" target="_blank"><img alt="Instargram" src="https://img.shields.io/badge/Instagram-ff69b4?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
