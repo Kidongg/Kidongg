@@ -1,6 +1,6 @@
 <h1>Hey! Nice to see you 😄</h1>
 
-<p>Welcome to my page! </br> I'm Kidongg, Baby developer from <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/><b> Seoul, South Korea</b></p>
+<p>Welcome to my page! </br> I'm Kidongg, Baby developer from <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width="13"/><b>Seoul, South Korea</b></p>
 
 <h3>💻 Confident stack</h3>
 <p>
