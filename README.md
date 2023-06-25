@@ -4,15 +4,15 @@
 
 <h3>💻 Confident stack</h3>
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white" height=15 />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" height=15/>
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" height=15/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white" height=20 />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" height=20/>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" height=20/>
   </br>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" height=15/>
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height=15/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" height=20/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" height=20/>
   </br>
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" height=30/>
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" height=30/>
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" height=20/>
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white" height=20/>
 </p>
 
 <h3>✈ Where to find me</h3>
