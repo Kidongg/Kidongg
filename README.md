@@ -17,9 +17,9 @@
 
 <h3>✈ Where to find me</h3>
 <p>
-<a href="https://www.rocketpunch.com/@08b442b0" target="_blank"><img alt="Rocketpunch" src="https://img.shields.io/badge/RocketPunch-blue?&style=for-the-badge&logo=ApacheRocketMQ&logoColor=white" /></a>
-<a href="https://blog.naver.com/dlrlehd25" target="_blank"><img alt="Naverblog" src="https://img.shields.io/badge/Naver-green?&style=for-the-badge&logo=naver&logoColor=white" /></a> 
-<a href="https://www.instagram.com/ki_dongg_/" target="_blank"><img alt="Instargram" src="https://img.shields.io/badge/Instagram-ff69b4?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.rocketpunch.com/@08b442b0" target="_blank"><img alt="Rocketpunch" src="https://img.shields.io/badge/portfolio-blue?&style=for-the-badge&logo=ApacheRocketMQ&logoColor=white" /></a>
+<a href="https://blog.naver.com/dlrlehd25" target="_blank"><img alt="Naverblog" src="https://img.shields.io/badge/blog-green?&style=for-the-badge&logo=naver&logoColor=white" /></a> 
+<a href="https://www.instagram.com/ki_dongg_/" target="_blank"><img alt="Instargram" src="https://img.shields.io/badge/sns-ff69b4?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=4d4dff&height=100&section=footer)
