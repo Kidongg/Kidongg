@@ -18,8 +18,8 @@
 <h3>✈ Where to find me</h3>
 <p>
 <a href="https://www.linkedin.com/in/kidongg/" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/profile-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://kidongg.github.io/" target="_blank"><img alt="Techblog" src="https://img.shields.io/badge/blog-121D33?&style=for-the-badge&logo=bloglovin&logoColor=white" /></a> 
-<a href="https://blog.naver.com/ki_dongg" target="_blank"><img alt="Naverblog" src="https://img.shields.io/badge/blog-green?&style=for-the-badge&logo=namecheap&logoColor=white" /></a> 
+<a href="https://kidongg.github.io/" target="_blank"><img alt="Techblog" src="https://img.shields.io/badge/blog-121D33?&style=for-the-badge&logo=github&logoColor=white" /></a> 
+<a href="https://blog.naver.com/ki_dongg" target="_blank"><img alt="Naverblog" src="https://img.shields.io/badge/blog-green?&style=for-the-badge&logo=naver&logoColor=white" /></a> 
 <a href="https://www.instagram.com/ki_dongg_/" target="_blank"><img alt="Instargram" src="https://img.shields.io/badge/sns-ff69b4?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
